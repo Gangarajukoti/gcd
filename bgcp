@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8">
+	<title>backgound</title>
+</head>
+<style>
+	#bg {
+		width: 500px;
+		height: 500px;
+		background-color: gray;
+		background: url("water_fall.jpg") no-repeat center blue;
+	}
+</style>
+<body>
+<h1>the background property</h1>
+<div id="bg"> the lovable background image</div>
+</body>
+</html>
